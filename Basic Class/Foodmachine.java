@@ -1,4 +1,3 @@
-package Exam;
 
 import java.util.Scanner;
 class Content{
