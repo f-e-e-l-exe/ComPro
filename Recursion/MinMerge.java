@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class MinMerge {
 
     String merge(String str1, String str2){
