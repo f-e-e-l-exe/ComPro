@@ -16,7 +16,7 @@ public class GoInside {
         }
 
     }
-
+    
     //forloop TYPE/////////////////////////////////////////////
     String go(String str, boolean front){
         String result="";
